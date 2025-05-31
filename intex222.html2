@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="bn">
+<head>
+  <meta charset="UTF-8">
+  <title>হাফিজুলের ওয়েবসাইট</title>
+  <style>
+    body {
+      font-family: Arial;
+      background-color: #f0f8ff;
+      padding: 20px;
+    }
+    h1 {
+      color: #1a73e8;
+    }
+    img {
+      width: 300px;
+      margin: 10px 0;
+    }
+    table, th, td {
+      border: 1px solid black;
+      border-collapse: collapse;
+      padding: 5px;
+    }
+    .box {
+      background-color: #e0ffff;
+      padding: 10px;
+      margin: 15px 0;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>হাফিজুলের ব্যক্তিগত ওয়েবসাইটে স্বাগতম!</h1>
+
+  <p>আমি হাফিজুল। আমি ওয়েব ডিজাইন শিখছি HTML ও CSS দিয়ে।</p>
+
+  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcubanvr.com%2Fwp-content%2Fuploads%2F2023%2F07%2Fai-image-generators.webp&f=1&nofb=1&ipt=492797443034cf6a69fd6e1149a8b482e70e6451a7f0b8045ef3c10a98b02a2d" alt="আমার ছবি" width="300">
+
+
+  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.pixabay.com%2Fphoto%2F2014%2F02%2F27%2F16%2F10%2Fflowers-276014_640.jpg&f=1&nofb=1&ipt=89bbd03ad8d30505b3e1be9cd0d4d2eb441d9f9171fb1727cd4e6d2788fc6db5" alt="FLOWRS" width="300">
+
+ <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.powertrafic.fr%2Fwp-content%2Fuploads%2F2023%2F04%2Fimage-ia-exemple.png&f=1&nofb=1&ipt=846efa4dc21a177289b5d24b725bce1f91b7145b5388264466252ad3fb9b32da" alt="ছবি">
+
+ <img src="https://via.placeholder.com/300x200?text=Math" alt="ছবি">
+
+ <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.powertrafic.fr%2Fwp-content%2Fuploads%2F2023%2F04%2Fimage-ia-exemple.png&f=1&nofb=1&ipt=846efa4dc21a177289b5d24b725bce1f91b7145b5388264466252ad3fb9b32daalt="ছবি"" alt="ছবি">
+
+ <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fchatgpt.com.br%2Fwp-content%2Fuploads%2F2023%2F03%2Fbing-image-creator-1024x1024.jpg&f=1&nofb=1&ipt=a2899798c8554dc4e0f632a05ac3d432778ae4fec1b97df3ccebeefd5ff0fe45alt="বই"" alt="ছবি"> <img src="https://via.placeholder.com/300x200?text=Math" alt="ছবি">
+
+ <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdeep-image.ai%2Fblog%2Fcontent%2Fimages%2Fsize%2Fw1600%2F2022%2F08%2Fmagic-g1db898374_1920.jpg&f=1&nofb=1&ipt=9a346603d15ccde777b928639238be788ae660aec12c35da369f42f9d37afedd alt="ছবি">"" alt="ছবি">
+
+ <img src="text=Math
+  <p><a href="https://www.google.com" target="_blank">গুগলে যাও</a></p>
+
+  <button onclick="alert('ধন্যবাদ হাফিজুল!')">আমাকে ক্লিক করো</button>
+
+  <div class="box">
+    <h3>আমি কী শিখেছি:</h3>
+    <ul>
+      <li>HTML</li>
+      <li>ছবি ও লিংক</li>
+      <li>বোতাম</li>
+      <li>টেবিল ও ফর্ম</li>
+    </ul>
+  </div>
+
+  <h3>আমার পরিচিতি টেবিল:</h3>
+  <table>
+    <tr>
+      <th>নাম</th>
+      <th>বয়স</th>
+      <th>পছন্দ</th>
+    </tr>
+    <tr>
+      <td>হাফিজুল</td>
+      <td>১৬</td>
+      <td>ডিজাইন শেখা</td>
+    </tr>
+  </table>
+
+  <h3>যোগাযোগ করুন:</h3>
+  <form>
+    <label>তোমার নাম:</label><br>
+    <input type="text" name="name"><br><br>
+
+    <label>তোমার ইমেইল:</label><br>
+    <input type="email" name="email"><br><br>
+
+    <label>বার্তা:</label><br>
+    <textarea name="message" rows="4" cols="30"></textarea><br><br>
+
+    <input type="submit" value="পাঠিয়ে দাও">
+  </form>
+
+</body>
+</html>
